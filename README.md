@@ -1,2 +1,5 @@
 # shiny_introduction
-Introduction to develop an R app
+Introduction to develop an R app.
+
+readme file txt
+
